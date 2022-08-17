@@ -22,7 +22,7 @@ export const getall = async (req: any, res: Response) => {
         firstName: "Admin",
         lastName: "Admin",
         displayName: "Admin",
-        email: "admin@admin.mn",
+        email: "info.wromo@gmail.com",
         gender: "men",
         avatar: "/uploads/holidays/image/png/62f9ef566818fb894eb44e61.png",
         bgImage: "/uploads/holidays/image/jpeg/62f9bd396e9f2bfb9d27a30d.jpg",
